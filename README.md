@@ -2,7 +2,8 @@
 
 Mycelia is a set of audiovisual experiences that use computer scripts as messengers of ideas, spells, and rituals, energized with poems and metaphors about the interconnection of a possible future society, powered by its constantly growing search engine, developed from its cultural spirit in relation to notions and practices of community, exchange, and generative networked work.
 
-- From 2018 to 2022, the project was exhibited as an audiovisual concert. During the years 2023 to 2024, it will be projected for the first time as a media art exhibition to be displayed in contemporary art spaces and galleries. For the first time, Mycelia will be exhibited as an immersive work in the official selection of the XII Biennial of Arts of Valparaíso, from April 19 to May 19, 2024, at the Valparaíso Cultural Park, allowing for greater interaction between the audience and the creative process of the work.  
+- From 2018 to 2022, the project was exhibited as an audiovisual concert. During the years 2023 to 2024, it will be projected for the first time as a media art exhibition to be displayed in contemporary art spaces and galleries. For the first time, Mycelia will be exhibited as an immersive work in the official selection of the XII Biennial of Arts of Valparaíso, from April 19 to May 19, 2024, at the Valparaíso Cultural Park, allowing for greater interaction between the audience and the creative process of the work.
+  
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/myce_biav.jpg"/>
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/myce_biav_x33.jpg"/>
 
@@ -37,7 +38,7 @@ Mycelia. Audiovisual concert and exhibition at the Extension Center of the Catho
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/banderamicelial.jpg"  width="720" height="480" />
 
-###### Flag of the Mycelial Union, Calán Node. Forest Museum, 15th Biennial of Media Arts of Santiago, Chile 2022.
+###### Flag of the Mycelial Union, Calán Node. Bosque Museo, 15 Bienal de Artes Mediales de Santiago, Chile 2022.
 
 "A flag is a sign of belonging over time. Raised on a wooden pole, this flag alludes to the mycelium, the set of branched filaments that constitutes the apparatus of interconnection and nutrient exchange between fungi and the different species that cohabit a forest. Here, the generative drawing of an expanding mycelium is shown as the central symbol, which I have hand-embroidered, evoking union in the exchange of knowledge towards good living."
 
@@ -55,7 +56,7 @@ Mycelia. Audiovisual concert and exhibition at the Extension Center of the Catho
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycexxxxxx-jpg-peq.jpg" />
 
-The mycelium is the set of hyphae that form the vegetative part of a fungus and is the main channel of interconnection and nutrient exchange between the roots of different species of trees and plants that coexist in a forest. Mycologists have called the forest's WWW the "Wood Wide Web" in relation to the well-known nomenclature of the "World Wide Web" that keeps us digitally and electronically interconnected with the world, especially in these times when we live in the new era of a digital culture.
+Mycelium is the set of hyphae that form the vegetative part of a fungus and is the main channel of interconnection and nutrient exchange between the roots of different species of trees and plants that coexist in a forest. Mycologists have called the forest's WWW the "Wood Wide Web" in relation to the well-known nomenclature of the "World Wide Web" that keeps us digitally and electronically interconnected with the world, especially in these times when we live in the new era of a digital culture.
 
 Starting from the paradigm of a multidirectional symbiotic transfer network that affects an ecosystem, a live performance is developed on the mutual and rhizomatic work existing in the Fungi Kingdom, modeling a metaphor generated through a dedicated graphics processing unit (GPU), exploring different interactive computational programming scenarios and live creative coding, various real-time reactive audiovisual scenarios that narrate a generative poem about the possible future of a mycelial society in the 21st century based on the existence, behavior, and community interconnection experience of the mycelium.
 
